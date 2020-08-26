@@ -17,5 +17,5 @@ Most probably... none.
 
 # Anime & Manga
 
-###Cowboy Bebop
-[https://cdn.myanimelist.net/images/anime/7/3791l.jpg]
+### Cowboy Bebop
+<img src=https://cdn.myanimelist.net/images/anime/7/3791l.jpg>
