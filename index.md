@@ -18,4 +18,4 @@ Most probably... none.
 # Anime & Manga
 
 ###Cowboy Bebop
-[IMG](https://cdn.myanimelist.net/images/anime/7/3791l.jpg)
+[https://cdn.myanimelist.net/images/anime/7/3791l.jpg]
