@@ -1,9 +1,46 @@
-## Welcome to GitHub Pages
+# My Favorites Movies, TV Shows, Books, Games and Music.
 
-You can use the [editor on GitHub](https://github.com/Sysop-deb/Place/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## I.Movies
+For a while: *The Before Trilogy* Before Sunrise(1995), Before Sunset(2004) and Before Midnight(2013), Arrival(2016), Source Code(2011), Mr. Nobody(2009), Memento(2000), Dead Poets Society(1989), Whiplash(2014), Edge of Tomorrow(2014), V For Vendetta(2006) to be continued.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## II. TV Shows
+The Blacklist, House M.D., to be continued
 
+## III. Music
+Greg Laswell, to be continued
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_____________________________________________________________________________________________
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -28,10 +65,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sysop-deb/Place/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
