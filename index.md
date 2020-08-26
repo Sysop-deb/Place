@@ -1,7 +1,7 @@
 # My Favorites Movies, TV Shows, Books, Games and Music.
 
 
-### I. Movies
+## I. Movies
 For a while: *The Before Trilogy* Before Sunrise(1995), Before Sunset(2004) and Before Midnight(2013), Arrival(2016), Source Code(2011), Mr. Nobody(2009), Memento(2000), Dead Poets Society(1989), Whiplash(2014), Edge of Tomorrow(2014), V For Vendetta(2006) to be continued.
 
 ## II. TV Shows
@@ -15,68 +15,7 @@ Most probably... none.
 
 
 
+# Anime & Manga
 
-[GitHub](http://github.com)
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-I think you should use an
-`<addr>` element here instead.
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
-
-
-
-
-
-
-
-
-
-
-_____________________________________________________________________________________________
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+###Cowboy Bebop
+[IMG](https://cdn.myanimelist.net/images/anime/7/3791l.jpg)
