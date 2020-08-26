@@ -19,5 +19,3 @@ Most probably... none.
 
 ### Cowboy Bebop
 >In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as "Cowboys." The ragtag team aboard the spaceship Bebop are two such individuals.
-<img src=https://cdn.myanimelist.net/images/anime/7/3791l.jpg>
-
