@@ -19,4 +19,4 @@ Most probably... none.
 ### Cowboy Bebop
 >In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as "Cowboys." The ragtag team aboard the spaceship Bebop are two such individuals.
 
-<a href="SM.html/">Songs & Music</a>
+<a href="SM.md/">Songs & Music</a>
